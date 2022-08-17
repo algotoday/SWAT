@@ -2,7 +2,7 @@
   
 
 ## Description
-[DTPG](https://user-images.githubusercontent.com/100335717/185027790-87cc6c2e-bf4c-4c1a-9a87-aaaa70f59dae.png)
+![DTPG](https://user-images.githubusercontent.com/100335717/185027994-a3a4613b-067f-4ceb-bfd0-c177faadc23a.png)
 
 
 ## Installation
