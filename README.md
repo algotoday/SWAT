@@ -14,7 +14,7 @@
 ![UTPG](https://user-images.githubusercontent.com/100335717/185027835-3e4dbfd4-46ac-4ca7-b33b-75cfbba81cd1.png)
 
 
-## Website/Webpage
+## Walkthrough/Webpage
 
 
 
